@@ -1,0 +1,11 @@
+export default [
+  { "_id": "1", "user": "1", "course": "RS101" },
+  { "_id": "2", "user": "2", "course": "RS101" },
+  { "_id": "3", "user": "3", "course": "RS101" },
+  { "_id": "4", "user": "4", "course": "RS101" },
+  { "_id": "5", "user": "5", "course": "RS101" },
+  { "_id": "6", "user": "6", "course": "RS102" },
+  { "_id": "7", "user": "7", "course": "RS102" },
+  { "_id": "8", "user": "8", "course": "RS102" },
+  { "_id": "9", "user": "9", "course": "RS102" }
+];
